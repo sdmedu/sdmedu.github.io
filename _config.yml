@@ -1,10 +1,10 @@
 # Site settings
-title: 浙里高中信息技术
+title: 无一文化
 SEOTitle: Tech瓦力的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: yuerjing.cn@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, Tech瓦力的博客, sdmedu, Tech瓦力, iOS, Apple, iPhone"
+keyword: "BY, BY Blog, Tech瓦力的博客, 无一文化, Tech瓦力, iOS, Apple, iPhone"
 url: "http://sdmedu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
